@@ -8,10 +8,10 @@
 ::
 ::   IDM Activation Script (IAS)
 ::
-::   Homepages: https://github.com/lstprjct/IDM-Activation-Script
-::              https://t.me/ModByPiash/5
+::   Homepages: https://github.com/movielink999/idmprokey
+::              https://t.me/zeroearning01
 ::
-::       Telegram: @Stripe_op
+::       Telegram: @supernovaAZbot
 ::
 ::============================================================================
 
@@ -373,7 +373,7 @@ echo:
 call :_color2 %_White% "             " %_Green% "Create By Piash"
 echo:            ___________________________________________________ 
 echo:
-echo:               Telegram: @ModByPiash
+echo:               Telegram: @supernovaAZbot
 echo:               Github: https://github.com/movielink999
 echo:            ___________________________________________________ 
 echo:                                                               
